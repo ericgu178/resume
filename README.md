@@ -22,7 +22,7 @@
 
 * 期望职位：PHP开发工程师
 
-* 期望薪资：税前月薪6k~10k
+* 期望薪资：税前月薪8k~10k
 
 * 期望城市：石家庄
 
@@ -46,22 +46,24 @@
 
 ### 德戎退役军人招聘网站
 
-这个项目我负责前端项目，web端的项目。技术栈是Vue，vuex，koa2。
+这个项目我负责前端项目，web端的项目。技术栈是Vue生态圈，koa2。
 
-# 技能清单
-* Web开发： PHP
+# 个人技术栈
+- 后台开发语言： PHP/Node
 
-* Web开发框架： ThinkPHP5
+- PHP框架：ThinkPHP5
 
-* 前端框架： Vue生态/HTML5/JQuery/Bootstrap/React生态
+- 前端开发：Vue生态圈，React生态圈，/HTML5/JQuery/Bootstrap/微信小程序
 
-* 数据库相关：MySQL/Redis
+- 数据库相关：MySQL/Redis
 
-* 版本管理、依赖管理：Git/Composer
+- 熟练使用Git版本管理，用过Svn版本管理
 
-* 开放平台：蚂蚁金服开放平台/微信应用开发
+- 会shell脚本 懂linux服务器
 
-* 脚本相关、系统：Shell/Linux
+# 个人业务相关
+
+- 做过微信支付和支付宝支付，开发过微信公众号和微信小程序
 
 # 致谢
 
